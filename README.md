@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Aman! 👋
 
-<!--
-**junker149/junker149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Game Developer in Progress**  
+💻 **Backend Developer | MERN Enthusiast | Exploring Python**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: TypeScript, JavaScript, Python (learning)  
+- **Frameworks & Libraries**: Node.js, React.js, Prisma, Tailwind CSS  
+- **Databases**: PostgreSQL, MongoDB, Redis  
+- **Tools & Platforms**: Docker, Cloudflare, NeonDB, Postman 
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=junker149&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junker149&layout=compact&theme=radical)
+
+---
+
+### 🌟 Open to Collaboration
+- Building AI assistants, backend projects, or exploring game development together!
+
+📫 Reach me at: [rawalaman.0505@gmail.com](mailto:rawalaman.0505@gmail.com)
