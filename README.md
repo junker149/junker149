@@ -1,13 +1,13 @@
 # Hi there, I'm Aman! 👋
 
 🎮 **Game Developer in Progress**  
-💻 **Backend Developer | MERN Enthusiast | Exploring Python**
+💻 **Backend Developer | MERN Enthusiast | Exploring Python and Next.js**
 
 ---
 
 ### 🛠️ Tech Stack
 - **Languages**: TypeScript, JavaScript, Python (learning)  
-- **Frameworks & Libraries**: Node.js, React.js, Prisma, Tailwind CSS, Hono  
+- **Frameworks & Libraries**: Node.js, React.js, Prisma, Tailwind CSS, Hono, Next.js
 - **Databases**: PostgreSQL, MongoDB, Redis  
 - **Tools & Platforms**: Docker, Cloudflare, NeonDB, Postman 
 
