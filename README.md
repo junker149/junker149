@@ -7,7 +7,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: TypeScript, JavaScript, Python (learning)  
-- **Frameworks & Libraries**: Node.js, React.js, Prisma, Tailwind CSS  
+- **Frameworks & Libraries**: Node.js, React.js, Prisma, Tailwind CSS, Hono  
 - **Databases**: PostgreSQL, MongoDB, Redis  
 - **Tools & Platforms**: Docker, Cloudflare, NeonDB, Postman 
 
@@ -15,7 +15,6 @@
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=junker149&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junker149&layout=compact&theme=radical)
 
 ---
